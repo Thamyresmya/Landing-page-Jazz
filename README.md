@@ -41,6 +41,12 @@ Projeto realizado com a Onebitecode, criando uma landing page de uma escola de m
 
 Veja como ficou o projeto [Landing Page](https://thamyresmya.github.io/Landing-page-Jazz/#)
 
+<br>
+
+## 📸 Gif
+Página responsive
+
+<img width="70%" height="300" src="img/geral/Landing-page-Jazz.gif"></img>
 
 <br>
 
