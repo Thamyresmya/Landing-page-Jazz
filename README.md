@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto realizado com a Onebitecode, criando uma landing page de uma escola de música. É uma página responsive, sendo possível aceessar por celulares, tablets e desktop.
+Projeto realizado com a Onebitecode, criando uma landing page de uma escola de música. É uma página responsive, sendo possível acessar por celulares, tablets e desktop.
 
 <br>
 
